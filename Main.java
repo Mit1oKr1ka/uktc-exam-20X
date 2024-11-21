@@ -7,7 +7,7 @@ public class Main {
 
     static class Dog {
         bark() {
-            system.out.println("Bark");
+            println("Bark");
         }
     }
 }
